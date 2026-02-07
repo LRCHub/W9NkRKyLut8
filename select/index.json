@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ロスト・シルフィード",
+  "base_artist": "酔シグレ",
+  "createdAt": "2026-02-07T09:19:46.367699Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロスト・シルフィード (feat. Lucia)",
+      "artist": "酔シグレ",
+      "has_synced": false,
+      "path": "select/pl_01_ロスト・シルフィード_(feat._Lucia)_酔シグレ.txt"
+    }
+  ]
+}
